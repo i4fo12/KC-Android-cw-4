@@ -1,0 +1,19 @@
+class HelloWorld {
+    //bouns 
+    public static void main(String[] args) {
+      
+      for(int x = 0; x<10; x++){
+          System.out.println("my name is mohammad");
+      }
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+       //System.out.println("Hello, World!");
+    }
+}
